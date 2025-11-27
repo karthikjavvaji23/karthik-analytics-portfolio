@@ -1,120 +1,61 @@
 # 🌟 **Welcome To My Data Analyst Portfolio — Karthik Javvaji**
 
-I’m passionate about transforming raw data into insights that solve real business problems. Data analytics excites me because it blends logic, creativity, and impact—turning trends into stories, predictions into strategy, and numbers into decisions.
+I’m passionate about turning raw data into insights that drive real business decisions. Whether it’s forecasting sales, analyzing financial trends, or predicting customer behavior, I enjoy working across the full analytics pipeline—**ETL, data modeling, machine learning, and BI storytelling**—to deliver solutions that create measurable impact.
 
-This portfolio showcases the projects I’ve built across **Power BI, Python, Machine Learning, ETL pipelines, forecasting, and BI storytelling**. Whether it’s predicting sales, identifying at-risk customers, or analyzing financial performance, I enjoy bringing data to life in ways that deliver measurable value.
-
----
-
-# 📊 **📌 Featured Analytics & BI Projects**
+This portfolio highlights my key projects across **Power BI, Python, DAX, and ML**, showcasing both technical skill and business-focused thinking.
 
 ---
 
-## 🔥 **[End-to-End Sales Forecasting Dashboard — Power BI + Prophet ML](https://github.com/karthikjavvaji23/End-to-End-Sales-Forecast-Dashboard)**
-
-A complete retail forecasting solution built using the Kaggle Superstore dataset.
-
-### 🔧 **Technical Highlights**
-
-* Full ETL pipeline: cleaning, shaping, relationship modeling
-* Prophet ML forecasting with confidence intervals
-* DAX measures for YoY Growth, Forecast Accuracy, Next-Year Projection
-* Seasonality analysis, category breakdowns, KPI cards
-* Smart Narrative tied to slicers
-
-### 💼 **Business Value**
-
-Improves demand planning, staffing, budgeting, and category strategy using accurate ML-based forecasts.
+# 📊 **Featured Projects**
 
 ---
 
-## 🟦 **[Financial KPI Performance Dashboard — Power BI](https://github.com/karthikjavvaji23/financial-kpi-dashboard-powerbi)**
+## **[1️⃣ End-to-End Sales Forecasting Dashboard](https://github.com/karthikjavvaji23/End-to-End-Sales-Forecast-Dashboard)**
 
-A professional financial analytics dashboard using Kaggle’s Company Financials dataset.
-
-### 🔧 **Technical Highlights**
-
-* Power Query ETL workflow
-* DAX for margins, profit, COGS, and discount impact
-* Custom JSON theme & UI layout
-* Month-over-month trend analysis
-* Segment-level and country-level profitability insights
-
-### 💼 **Business Value**
-
-Helps leadership track performance, identify profitable markets, evaluate discount impact, and drive financial planning.
+**Tools:** Power BI, Python, Prophet ML, DAX
+**Focus:** Sales forecasting, seasonality, category insights, KPI analysis
+**Workflow:** ETL → Prophet ML → DAX modeling → Interactive dashboard
+**Value:** Supports demand planning, budgeting, and performance monitoring.
 
 ---
 
-## 🔵 **[Bank Customer Churn Analysis & Prediction — Python + Power BI](https://github.com/karthikjavvaji23/bank-customer-churn-analysis)**
+## **[2️⃣ Financial KPI Performance Dashboard](https://github.com/karthikjavvaji23/financial-kpi-dashboard-powerbi)**
 
-A ML-powered churn prediction project integrated into a Power BI decision dashboard.
-
-### 🔧 **Technical Highlights**
-
-* ETL + feature engineering (Pandas, NumPy)
-* Random Forest classification model
-* Churn risk scoring (0–1)
-* Feature importance analysis
-* 3-page Power BI dashboard (Executive → Segmentation → Prediction)
-
-### 💼 **Business Value**
-
-Identifies at-risk customers, explains churn drivers, and supports retention strategy for banking teams.
+**Tools:** Power BI, Power Query, DAX
+**Focus:** Sales, profit, COGS, margin %, discount impact
+**Workflow:** ETL → Star schema → DAX KPIs → Executive visuals
+**Value:** Helps leadership understand profitability and operational efficiency.
 
 ---
 
-# 🧠 **🔧 Core Skills & Technologies**
+## **[3️⃣ Bank Customer Churn Analysis & Prediction](https://github.com/karthikjavvaji23/bank-customer-churn-analysis)**
+
+**Tools:** Python (Random Forest), Power BI, Pandas
+**Focus:** Churn prediction, feature importance, customer risk scoring
+**Workflow:** ETL → Feature engineering → ML model → BI reporting
+**Value:** Supports customer retention and risk-based decision-making.
 
 ---
 
-## 📌 **Business Intelligence**
+# 🧠 **Core Skills**
 
-* Power BI: DAX, data modeling, star schema, KPI design
-* Dashboard UX & storytelling
-* Custom JSON themes & advanced visuals
-
-## 📌 **Machine Learning**
-
-* Prophet (Forecasting)
-* Random Forest (Classification)
-* K-Means (Clustering)
-* Model evaluation & interpretation
-
-## 📌 **ETL & Data Engineering**
-
-* Power Query transformations
-* Python ETL pipelines
-* Data cleaning, shaping, feature engineering
-* Relationship modeling & calendar tables
-
-## 📌 **Analytics & Domain Skills**
-
-* Sales analytics
-* Financial KPI interpretation
-* Customer segmentation
-* Churn prediction
-* Performance tracking
-
-## 📌 **Professional Strengths**
-
-* Problem-solving
-* Stakeholder communication
-* BI storytelling
-* Requirements gathering
-* Analytical thinking
+* **Business Intelligence:** Power BI, DAX, Data Modeling, Visualization
+* **Machine Learning:** Prophet, Random Forest, K-Means
+* **ETL & Data Engineering:** Power Query, Python (Pandas, NumPy)
+* **Analytics:** Sales forecasting, financial KPIs, customer behavior
+* **Professional:** Storytelling, problem-solving, stakeholder communication
 
 ---
 
-# 🗂️ **📁 How This Portfolio Works**
+# 🗂️ **How This Portfolio Works**
 
-This repository serves as a **central hub** that links to all my individual projects.
+This repository is a **central hub** linking to my main analytics projects.
 Each project repository contains:
 
-* 📊 Power BI dashboards (.pbix)
-* 📄 Mini-READMEs describing the business problem & solution
-* 🧮 Python notebooks for ML workflows
-* 🔧 ETL/cleaning steps
-* 📸 Screenshots & recorded demos
-* 🧠 Key insights and business impact
+* A Power BI dashboard (`.pbix`)
+* ETL steps & data preparation
+* ML notebooks (when applicable)
+* Screenshots & summaries
+
 ---
+
