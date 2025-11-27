@@ -53,9 +53,13 @@ This portfolio highlights my key projects across **Power BI, Python, DAX, and ML
 # 🧠 **Core Skills**
 
 **Business Intelligence:** Power BI, DAX, Data Modeling, Visualization
+
 **Machine Learning:** Prophet, Random Forest, K-Means
+
 **ETL & Data Engineering:** Power Query, Python (Pandas, NumPy)
+
 **Analytics:** Sales forecasting, financial KPIs, customer behavior
+
 **Professional:** Storytelling, problem-solving, stakeholder communication
 
 ---
@@ -66,8 +70,11 @@ This repository is a **central hub** linking to my main analytics projects.
 Each project repository contains:
 
 * Power BI dashboard (.pbix)
+
 * ETL steps & data preparation
+
 * ML notebooks (when applicable)
+
 * Screenshots & summaries
 
 ---
