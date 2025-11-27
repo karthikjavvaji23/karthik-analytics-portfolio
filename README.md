@@ -1,141 +1,120 @@
-👋 Welcome To My Data Analyst Portfolio — Karthik Javvaji
+# 🌟 **Welcome To My Data Analyst Portfolio — Karthik Javvaji**
 
-I’m truly excited about the world of data—how numbers, patterns, and behaviors can be transformed into insights that drive real business decisions. For me, data analytics isn’t just about dashboards or models; it’s about solving real problems, understanding why trends happen, predicting what comes next, and helping organizations make smarter, faster, and more confident decisions.
+I’m passionate about transforming raw data into insights that solve real business problems. Data analytics excites me because it blends logic, creativity, and impact—turning trends into stories, predictions into strategy, and numbers into decisions.
 
-This portfolio is a collection of the projects I’m most proud of—built using Power BI, Python, Prophet ML, DAX, ETL, data modeling, and end-to-end analytical storytelling. Whether it’s forecasting sales, segmenting customers, or optimizing inventory, I love bringing data to life in a way that delivers clear business value.
+This portfolio showcases the projects I’ve built across **Power BI, Python, Machine Learning, ETL pipelines, forecasting, and BI storytelling**. Whether it’s predicting sales, identifying at-risk customers, or analyzing financial performance, I enjoy bringing data to life in ways that deliver measurable value.
 
-📊 Featured Analytics & BI Projects:
-1️⃣ Retail Sales Forecasting Dashboard — Power BI + Prophet ML
+---
 
-A complete sales forecasting & performance analysis solution built using the Kaggle Superstore dataset.
+# 📊 **📌 Featured Analytics & BI Projects**
 
-Technical Highlights:
+---
 
-End-to-end ETL: data cleaning, normalization, transformation
+## 🔥 **[End-to-End Sales Forecasting Dashboard — Power BI + Prophet ML](https://github.com/karthikjavvaji23/End-to-End-Sales-Forecast-Dashboard)**
 
-Custom forecasting table creation
+A complete retail forecasting solution built using the Kaggle Superstore dataset.
 
-Prophet ML time-series forecasting
+### 🔧 **Technical Highlights**
 
-DAX modeling for YoY Growth, Forecast Accuracy, Next-Year Prediction
+* Full ETL pipeline: cleaning, shaping, relationship modeling
+* Prophet ML forecasting with confidence intervals
+* DAX measures for YoY Growth, Forecast Accuracy, Next-Year Projection
+* Seasonality analysis, category breakdowns, KPI cards
+* Smart Narrative tied to slicers
 
-Calendar table & relationship modeling
+### 💼 **Business Value**
 
-Advanced Power BI formatting & dynamic narratives
+Improves demand planning, staffing, budgeting, and category strategy using accurate ML-based forecasts.
 
-Business Value:
-Supports demand forecasting, sales planning, category prioritization, performance monitoring, inventory alignment, and proactive business decisions.
+---
 
-2️⃣ Customer Segmentation Dashboard — Power BI + Clustering
+## 🟦 **[Financial KPI Performance Dashboard — Power BI](https://github.com/karthikjavvaji23/financial-kpi-dashboard-powerbi)**
 
-A customer analytics dashboard built using Python’s K-Means clustering and visualized in Power BI.
+A professional financial analytics dashboard using Kaggle’s Company Financials dataset.
 
-Technical Highlights:
+### 🔧 **Technical Highlights**
 
-Python ETL & feature engineering
+* Power Query ETL workflow
+* DAX for margins, profit, COGS, and discount impact
+* Custom JSON theme & UI layout
+* Month-over-month trend analysis
+* Segment-level and country-level profitability insights
 
-RFM scoring (Recency, Frequency, Monetary)
+### 💼 **Business Value**
 
-Clustering pipeline with K-Means
+Helps leadership track performance, identify profitable markets, evaluate discount impact, and drive financial planning.
 
-Power BI integration & visual storytelling
+---
 
-Segment-level performance tracking
+## 🔵 **[Bank Customer Churn Analysis & Prediction — Python + Power BI](https://github.com/karthikjavvaji23/bank-customer-churn-analysis)**
 
-Business Value:
-Enables targeted marketing, customer retention strategies, personalized promotions, and revenue-focused segmentation.
+A ML-powered churn prediction project integrated into a Power BI decision dashboard.
 
-3️⃣ Inventory Optimization Dashboard — Power BI
+### 🔧 **Technical Highlights**
 
-A supply-chain optimization dashboard designed to improve inventory performance and operational efficiency.
+* ETL + feature engineering (Pandas, NumPy)
+* Random Forest classification model
+* Churn risk scoring (0–1)
+* Feature importance analysis
+* 3-page Power BI dashboard (Executive → Segmentation → Prediction)
 
-Technical Highlights:
+### 💼 **Business Value**
 
-ETL: SKU-level cleaning, deduplication, categorization
+Identifies at-risk customers, explains churn drivers, and supports retention strategy for banking teams.
 
-DAX measures for reorder signals, fast/slow movers, stock coverage
+---
 
-Data modeling with product hierarchies
+# 🧠 **🔧 Core Skills & Technologies**
 
-Power BI-driven insights for SKU velocity & demand patterns
+---
 
-Business Value:
-Reduces carrying costs, prevents stockouts, supports ordering decisions, and aligns inventory to demand trends.
+## 📌 **Business Intelligence**
 
-🧠 Core Skills & Technologies
-📌 Business Intelligence & Visualization
+* Power BI: DAX, data modeling, star schema, KPI design
+* Dashboard UX & storytelling
+* Custom JSON themes & advanced visuals
 
-Power BI (DAX, Data Modeling, KPI Design, UX Layouts)
+## 📌 **Machine Learning**
 
-Dashboard development & storytelling
+* Prophet (Forecasting)
+* Random Forest (Classification)
+* K-Means (Clustering)
+* Model evaluation & interpretation
 
-Advanced visuals, tooltips, hierarchies, and slicers
+## 📌 **ETL & Data Engineering**
 
-📌 Data Science & ML
+* Power Query transformations
+* Python ETL pipelines
+* Data cleaning, shaping, feature engineering
+* Relationship modeling & calendar tables
 
-Prophet ML (Forecasting)
+## 📌 **Analytics & Domain Skills**
 
-K-Means Clustering
+* Sales analytics
+* Financial KPI interpretation
+* Customer segmentation
+* Churn prediction
+* Performance tracking
 
-Python (Pandas, NumPy, Scikit-learn)
+## 📌 **Professional Strengths**
 
-Forecast accuracy evaluation
-
-📌 ETL & Data Engineering
-
-Data cleaning, transformation, normalization
-
-Feature engineering
-
-Python ETL pipelines
-
-Large dataset handling
-
-Calendar tables & relationship modeling
-
-📌 Analytics & Business Insights
-
-Sales analytics
-
-Customer segmentation
-
-Inventory optimization
-
-KPI frameworks
-
-Strategic insight reporting
-
-📌 Professional Strengths
-
-Analytical thinking
-
-Problem-solving
-
-Clear communication
-
-Presentation-ready insights
-
-Cross-functional decision support
-
-🗂️ How This Portfolio Works
-
-This repository acts as a central hub for all my analytics and BI projects.
-Each project has its own dedicated repository that includes:
-
-📁 The full Power BI dashboard (.pbix)
-
-📄 Project-specific README with business questions answered
-
-📊 Screenshots & visual previews
-
-🧮 Python notebooks (for ML-based projects)
-
-📦 Raw & processed datasets (or links to source if large)
-
-🔧 ETL logic and transformation steps
-
-🧠 Key insights & business impact
-
-Use this as your main portfolio link on your resume, LinkedIn, applications, and email signature:
-
-👉 https://github.com/YOURUSERNAME/karthik-analytics-portfolio
+* Problem-solving
+* Stakeholder communication
+* BI storytelling
+* Requirements gathering
+* Analytical thinking
+
+---
+
+# 🗂️ **📁 How This Portfolio Works**
+
+This repository serves as a **central hub** that links to all my individual projects.
+Each project repository contains:
+
+* 📊 Power BI dashboards (.pbix)
+* 📄 Mini-READMEs describing the business problem & solution
+* 🧮 Python notebooks for ML workflows
+* 🔧 ETL/cleaning steps
+* 📸 Screenshots & recorded demos
+* 🧠 Key insights and business impact
+---
